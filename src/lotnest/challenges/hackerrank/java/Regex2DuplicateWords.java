@@ -1,10 +1,10 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class JavaRegex2DuplicateWords {
+public class Regex2DuplicateWords {
 
     public static void main(String[] args) {
         String regex ="\\b(\\w+)(\\s+\\1\\b)*";

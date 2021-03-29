@@ -1,6 +1,6 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
-public class JavaSubstringComparisons {
+public class SubstringComparisons {
 
     public static String getSmallestAndLargest(String string, int k) {
         String smallest = string.substring(0, k);

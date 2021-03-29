@@ -1,8 +1,8 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.Scanner;
 
-public class JavaOutputFormatting {
+public class OutputFormatting {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

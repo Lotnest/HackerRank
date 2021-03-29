@@ -1,4 +1,4 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.io.*;
 import java.text.DateFormatSymbols;
@@ -27,7 +27,7 @@ class Result {
     }
 }
 
-public class JavaDateAndTime {
+public class DateAndTime {
 
     public static void main(String[] args) throws IOException {
 

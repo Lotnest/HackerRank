@@ -1,8 +1,8 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.Scanner;
 
-public class JavaLoopsI {
+public class LoopsI {
 
     private static final Scanner scanner = new Scanner(System.in);
 

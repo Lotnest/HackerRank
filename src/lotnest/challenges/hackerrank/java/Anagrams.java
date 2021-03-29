@@ -1,8 +1,8 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.Scanner;
 
-public class JavaAnagrams {
+public class Anagrams {
 
     static boolean isAnagram(String a, String b) {
         a = a.toLowerCase();

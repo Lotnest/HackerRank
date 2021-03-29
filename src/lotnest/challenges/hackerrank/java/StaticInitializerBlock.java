@@ -1,8 +1,8 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.Scanner;
 
-public class JavaStaticInitializerBlock {
+public class StaticInitializerBlock {
 
     private static final int B;
     private static final int H;

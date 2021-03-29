@@ -1,8 +1,8 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.Scanner;
 
-public class JavaDatatypes {
+public class Datatypes {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

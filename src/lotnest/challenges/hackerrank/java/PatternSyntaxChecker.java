@@ -1,4 +1,4 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;

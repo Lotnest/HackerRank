@@ -1,8 +1,8 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.Scanner;
 
-public class JavaRegex {
+public class Regex {
 
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);

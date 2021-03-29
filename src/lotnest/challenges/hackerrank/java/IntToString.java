@@ -1,9 +1,9 @@
-package lotnest.challenges.hackerrank;
+package lotnest.challenges.hackerrank.java;
 
 import java.util.*;
 import java.security.*;
 
-public class JavaIntToString {
+public class IntToString {
 
     public static void main(String[] args) {
 
