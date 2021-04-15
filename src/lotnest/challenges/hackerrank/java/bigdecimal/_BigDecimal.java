@@ -1,8 +1,9 @@
 package lotnest.challenges.hackerrank.java.bigdecimal;
 
+import java.math.BigDecimal;
 import java.util.*;
 
-public class BigDecimal {
+public class _BigDecimal {
 
     public static void main(String[] args) {
         //Input
@@ -19,8 +20,8 @@ public class BigDecimal {
             if (o1 == null || o2 == null) {
                 return 0;
             }
-            java.math.BigDecimal bigDecimal1 = new java.math.BigDecimal(o1);
-            java.math.BigDecimal bigDecimal2 = new java.math.BigDecimal(o2);
+            BigDecimal bigDecimal1 = new BigDecimal(o1);
+            BigDecimal bigDecimal2 = new BigDecimal(o2);
             return bigDecimal2.compareTo(bigDecimal1);
         });
 
